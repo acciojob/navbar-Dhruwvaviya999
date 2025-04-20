@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+
+*{
+	padding:0;
+	box-sizing:border-box;
+}
+
+.navbar{
+	background-color: #6e072d;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	font-size: 18px;
+	color:white;
+}
+
+ul{
+	display:flex;
+}
+
+li{
+	list-style-type: none;
+	padding-left: 18px;
+	padding-right: 27px;
+}
+
+li:hover{
+	background-color: #b90e4d;
+}
