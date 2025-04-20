@@ -22,9 +22,9 @@ li{
 	list-style-type: none;
 	padding-left: 18px;
 	padding-right: 27px;
+	cursor:pointer;
 }
 
 li:hover{
 	background-color: #b90e4d;
-	cursor:pointer;
 }
