@@ -26,4 +26,5 @@ li{
 
 li:hover{
 	background-color: #b90e4d;
+	cursor:pointer;
 }
